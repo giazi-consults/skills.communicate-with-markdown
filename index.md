@@ -15,3 +15,9 @@ $ sass sass/main.scss:public/styles/main.css --watch
 - [ ] Reasearch Topics and expand
   - [ ] Code Snippet details
   - [ ] Lists and action deep dive
+
+> Somehow the lesson accepted the change anyway
+
+- [ ] GitHub Pages is a good place for public exposure
+- [ ] Create Something Worthy
+- [ ] Share it
